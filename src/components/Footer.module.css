@@ -1,0 +1,35 @@
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: steelblue;
+    padding-bottom: 3em;
+    gap: 130px;
+    
+}
+
+.about {
+    width: 50ch;
+    text-align: center;
+    margin-top: 55px;
+    font-size: 1.2em;
+}
+
+.contact {
+    text-align: center;
+    
+}
+
+.follow{
+    text-align: center;
+}
+
+.followIcons {
+    display:  flex;
+    gap: 20px;
+}
+
+.svg {
+    width: 50px;
+}
